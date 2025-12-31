@@ -1,0 +1,2 @@
+# lexicity
+The first and only comprehensive index for ancient language resources on the internet.
